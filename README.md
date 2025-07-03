@@ -28,18 +28,17 @@
 </div>
 
 <h2>📚 | Education</h2>
-<p>As an engineer committed to lifelong learning, my academic path is both active and aspirational. Having achieved my bachelor's degree, I'm now advancing through my master's program, with the ultimate goal of attaining a doctoral degree.</p><br>
+<p>I am a systems engineer from the University of Nariño in Colombia. I enjoy learning more about technology and putting what I've learned into practice at every opportunity. This is my greatest motivation to continue pursuing my master's degree in cybersecurity.</p><br>
 
 <div align="center">
   <table style="margin-left: auto; margin-right: auto;">
     <tr>
       <td align="center">
-        <img src="https://thumbs4.imagebam.com/7d/3e/66/MESRJTA_t.png" height="40" alt="1.png"/>
-        <img src="https://thumbs4.imagebam.com/6c/bc/6e/MESRGXI_t.png" width="90" alt="UPS.png"/><br>
-        <img src="https://thumbs4.imagebam.com/d7/6e/91/MESRJ8U_t.png" height="20" alt="Ec.png"/><br>
-        <strong>UPS</strong><br><strong>BSc.</strong> Computer Science<br>
-        <img src="https://progress-bar.dev/100/" width="105" alt="progress-bar"/>
-      </td>
+        <img src="https://i.postimg.cc/ZKTNj0cd/logo-universidad-de-narino-udenar-periodico.jpg" height="80" alt="1.png"/>
+        <br>
+        <br>
+        <strong>Universidad de Nariño</strong><br><strong>.</strong> Software Engineer <br>
+        </td>
       <td align="center">
        <img src="https://thumbs4.imagebam.com/b4/6b/77/MESRJT1_t.png" height="40" alt="0.png"/>
        <img src="https://thumbs4.imagebam.com/d6/0d/e4/MESRJUR_t.png" width="90" alt="TEC.png"/><br>
